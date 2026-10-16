@@ -1,0 +1,36 @@
+{
+  "title": "200 | Capacity Planning - 200.1 Measure and Troubleshoot Resource Usage",
+  "description": "201-450 + 202-450 v4.5 - 200 Capacity Planning - 200.1",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Read the symptom",
+        "text": "step1.md"
+      },
+      {
+        "title": "Fix it",
+        "text": "step2.md",
+        "verify": "verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "break_fix.sh",
+          "target": "/root"
+        }
+      ]
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

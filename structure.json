@@ -1,6 +1,16 @@
 {
   "items": [
-    { "path": "cka", "title": "CKA · Certified Kubernetes Administrator (study.cybercirujas.club)" },
-    { "path": "study-smoke" }
+    {
+      "path": "cka",
+      "title": "Certified Kubernetes Administrator (CKA)"
+    },
+    {
+      "path": "lpic-2",
+      "title": "LPIC-2: Linux Engineer"
+    },
+    {
+      "path": "probe",
+      "title": "Environment probe"
+    }
   ]
 }

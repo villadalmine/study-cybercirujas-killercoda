@@ -1,0 +1,38 @@
+{
+  "cert": "lpic-2",
+  "exam_version": "4.5",
+  "domain": {
+    "id": "200",
+    "title": "Capacity Planning"
+  },
+  "objective": {
+    "id": "200.1",
+    "title": "Measure and Troubleshoot Resource Usage"
+  },
+  "objective_sha256": "eb7793375b881a9762c71974e2256f28eb3837c90e59251e3f39b2e8c205e5d9",
+  "curriculum": {
+    "url": "https://www.lpi.org/our-certifications/exam-201-objectives/",
+    "commit": null
+  },
+  "source": {
+    "path": "certs/lpic-2/200.1/lab",
+    "commit": "c90c8b204432"
+  },
+  "lab_hash": "7c2e93e28e3cf74960b3155219ce9f65874e632a47c5ff651fda491c23471047",
+  "license": "Apache-2.0",
+  "provenance": {
+    "kind": "ai",
+    "tool": "study-author (claude-opus-5-5)",
+    "level": "ai-beta",
+    "score": 88.9,
+    "reviews": {},
+    "from": "lab.yaml"
+  },
+  "tested_on_killercoda": null,
+  "tested": {
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/38890097244",
+    "date": "2026-10-16",
+    "result": "pass",
+    "parity": "assumed"
+  }
+}

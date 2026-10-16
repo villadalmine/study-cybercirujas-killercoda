@@ -1,0 +1,10 @@
+{
+  "title": "Certified Kubernetes Administrator (CKA)",
+  "description": "Break/fix labs for Certified Kubernetes Administrator (CKA)",
+  "items": [
+    {
+      "path": "1-1-implement-storage-classes-and-dynamic-volume",
+      "title": "1 | Storage - 1.1 Implement storage classes and dynamic volume provisioning"
+    }
+  ]
+}
