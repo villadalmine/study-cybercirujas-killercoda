@@ -1,0 +1,58 @@
+{
+  "scenario_sha256": "3ee3eabd11a998c838e6aef7afac788ea7c6e0642518d1134714ede958adee22",
+  "env": {
+    "image": "kubernetes-kubeadm-1node",
+    "os": "24.04",
+    "kubernetes": "1.36.5",
+    "runtime": "containerd",
+    "cni": "flannel v0.28.10",
+    "parity": "assumed"
+  },
+  "expected": {
+    "image": "kubernetes-kubeadm-1node",
+    "os": "24.04",
+    "kubernetes": "1.36.5",
+    "runtime": "containerd",
+    "cni": "flannel v0.28.10",
+    "parity": "assumed"
+  },
+  "runner": {
+    "kind": "ci",
+    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/38865813482"
+  },
+  "date": "2026-10-16",
+  "tool": "study-lab-test-killercoda/1",
+  "result": "pass",
+  "stages": {
+    "background": {
+      "ok": true,
+      "rc": 0,
+      "seconds": 13.9
+    },
+    "verify_fails_when_broken": {
+      "ok": true,
+      "rc": 1,
+      "seconds": 0.2
+    },
+    "reference_fix": {
+      "ok": true,
+      "rc": 0,
+      "seconds": 6.5
+    },
+    "verify_passes_when_fixed": {
+      "ok": true,
+      "rc": 0,
+      "seconds": 0.2
+    },
+    "cleanup": {
+      "ok": true,
+      "rc": 0,
+      "seconds": 47.5
+    },
+    "cleanup_twice": {
+      "ok": true,
+      "rc": 0,
+      "seconds": 0.2
+    }
+  }
+}

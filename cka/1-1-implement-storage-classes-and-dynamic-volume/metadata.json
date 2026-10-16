@@ -1,0 +1,38 @@
+{
+  "cert": "cka",
+  "exam_version": "1.35",
+  "domain": {
+    "id": "1",
+    "title": "Storage"
+  },
+  "objective": {
+    "id": "1.1",
+    "title": "Implement storage classes and dynamic volume provisioning"
+  },
+  "objective_sha256": "33d99dd2ce4c547ecdd2833090e447b341018fbad105003fd2a6cd97a922d051",
+  "curriculum": {
+    "url": "https://github.com/cncf/curriculum/raw/master/CKA_Curriculum_v1.35.pdf",
+    "commit": null
+  },
+  "source": {
+    "path": "certs/cka/1.1/lab",
+    "commit": "e9e04db0b080"
+  },
+  "lab_hash": "062a15ee8aa4b33ab0f256b2098da153b534a9278f378f257199dfffae733c36",
+  "license": "Apache-2.0",
+  "provenance": {
+    "kind": "ai",
+    "tool": "claude",
+    "level": "ai-beta",
+    "score": 86.1,
+    "reviews": {},
+    "from": "topic meta.yaml"
+  },
+  "tested_on_killercoda": null,
+  "tested": {
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/38865813482",
+    "date": "2026-10-16",
+    "result": "pass",
+    "parity": "assumed"
+  }
+}

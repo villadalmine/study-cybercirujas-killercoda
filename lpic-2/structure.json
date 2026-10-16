@@ -1,0 +1,10 @@
+{
+  "title": "LPIC-2: Linux Engineer",
+  "description": "Break/fix labs for LPIC-2: Linux Engineer",
+  "items": [
+    {
+      "path": "200-1-measure-and-troubleshoot-resource-usage",
+      "title": "200 | Capacity Planning - 200.1 Measure and Troubleshoot Resource Usage"
+    }
+  ]
+}
