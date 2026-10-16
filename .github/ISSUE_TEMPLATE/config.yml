@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with a lab or propose a new one
+    url: https://github.com/villadalmine/study-cybercirujas/issues/new/choose
+    about: Labs live in the study repo; this repository is generated from it.
