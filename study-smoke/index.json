@@ -1,0 +1,12 @@
+{
+  "title": "Study Cybercirujas: smoke test",
+  "description": "Checks the Killercoda sync of study.cybercirujas.club labs",
+  "details": {
+    "intro": { "text": "intro.md" },
+    "steps": [
+      { "title": "Fix the broken service file", "text": "step1.md", "verify": "verify1.sh" }
+    ],
+    "finish": { "text": "finish.md" }
+  },
+  "backend": { "imageid": "ubuntu" }
+}
