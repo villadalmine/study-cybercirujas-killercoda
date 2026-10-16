@@ -1,0 +1,36 @@
+{
+  "title": "AI/ML Integration in Platform Automation",
+  "description": "cnpa 5.4: break/fix lab, beginner",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Read the symptom",
+        "text": "step1.md"
+      },
+      {
+        "title": "Fix it",
+        "text": "step2.md",
+        "verify": "verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "break_fix.sh",
+          "target": "/root"
+        }
+      ]
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

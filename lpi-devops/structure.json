@@ -1,0 +1,54 @@
+{
+  "title": "LPI DevOps Tools Engineer",
+  "description": "Break/fix labs for LPI DevOps Tools Engineer",
+  "items": [
+    {
+      "path": "t-701-2",
+      "title": "701.2 Standard Components and Platforms for Software"
+    },
+    {
+      "path": "t-701-4",
+      "title": "701.4 Continuous Integration and Continuous Delivery"
+    },
+    {
+      "path": "t-701-5",
+      "title": "701.5 Software Composition, Licensing and Open Source"
+    },
+    {
+      "path": "t-702-1",
+      "title": "702.1 Application Container Management"
+    },
+    {
+      "path": "t-702-2",
+      "title": "702.2 Container Orchestration"
+    },
+    {
+      "path": "t-703-1",
+      "title": "703.1 Kubernetes Architecture and Usage"
+    },
+    {
+      "path": "t-703-2",
+      "title": "703.2 Basic Kubernetes Operations"
+    },
+    {
+      "path": "t-703-3",
+      "title": "703.3 Kubernetes Package Management"
+    },
+    {
+      "path": "t-704-1",
+      "title": "704.1 Cloud Native Security"
+    },
+    {
+      "path": "t-704-2",
+      "title": "704.2 Prometheus Monitoring"
+    },
+    {
+      "path": "t-704-3",
+      "title": "704.3 Log Management and Analysis"
+    },
+    {
+      "path": "t-704-4",
+      "title": "704.4 Tracing"
+    }
+  ]
+}

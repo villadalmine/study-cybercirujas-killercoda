@@ -1,0 +1,10 @@
+{
+  "title": "Certified Argo Project Associate (CAPA)",
+  "description": "Break/fix labs for Certified Argo Project Associate (CAPA)",
+  "items": [
+    {
+      "path": "t-3-1",
+      "title": "3.1 Argo CD"
+    }
+  ]
+}

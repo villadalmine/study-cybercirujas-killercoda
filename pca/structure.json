@@ -1,0 +1,26 @@
+{
+  "title": "Prometheus Certified Associate (PCA)",
+  "description": "Break/fix labs for Prometheus Certified Associate (PCA)",
+  "items": [
+    {
+      "path": "t-1-2",
+      "title": "1.2 Rates and Derivatives"
+    },
+    {
+      "path": "t-1-4",
+      "title": "1.4 Aggregating over dimensions"
+    },
+    {
+      "path": "t-2-5",
+      "title": "2.5 Exposition Format"
+    },
+    {
+      "path": "t-3-1",
+      "title": "3.1 Metrics"
+    },
+    {
+      "path": "t-3-2",
+      "title": "3.2 Understand logs and events"
+    }
+  ]
+}

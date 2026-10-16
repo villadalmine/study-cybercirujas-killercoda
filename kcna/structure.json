@@ -1,0 +1,30 @@
+{
+  "title": "Kubernetes and Cloud Native Associate (KCNA)",
+  "description": "Break/fix labs for Kubernetes and Cloud Native Associate (KCNA)",
+  "items": [
+    {
+      "path": "t-2-1",
+      "title": "2.1 Application Delivery"
+    },
+    {
+      "path": "t-2-2",
+      "title": "2.2 Debugging"
+    },
+    {
+      "path": "t-2-3",
+      "title": "2.3 Observability"
+    },
+    {
+      "path": "t-3-3",
+      "title": "3.3 Containerization"
+    },
+    {
+      "path": "t-3-5",
+      "title": "3.5 Security"
+    },
+    {
+      "path": "t-4-2",
+      "title": "4.2 Cloud Native Community and Collaboration"
+    }
+  ]
+}

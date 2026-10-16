@@ -1,0 +1,58 @@
+{
+  "title": "Certified Kubernetes Security Specialist (CKS)",
+  "description": "Break/fix labs for Certified Kubernetes Security Specialist (CKS)",
+  "items": [
+    {
+      "path": "t-1-3",
+      "title": "1.3 Properly set up Ingress objects with TLS"
+    },
+    {
+      "path": "t-1-5",
+      "title": "1.5 Verify platform binaries before deploying"
+    },
+    {
+      "path": "t-2-3",
+      "title": "2.3 Understand and implement isolation techniques (multi-tenancy, sandboxed containers, etc.)"
+    },
+    {
+      "path": "t-4-2",
+      "title": "4.2 Understand your supply chain (e.g. SBOM, CI/CD, artifact repositories)"
+    },
+    {
+      "path": "t-4-3",
+      "title": "4.3 Secure your supply chain (permitted registries, sign and validate artifacts, etc.)"
+    },
+    {
+      "path": "t-5-1",
+      "title": "5.1 Minimize host OS footprint (reduce attack surface)"
+    },
+    {
+      "path": "t-5-2",
+      "title": "5.2 Using least-privilege identity and access management"
+    },
+    {
+      "path": "t-5-3",
+      "title": "5.3 Minimize external access to the network"
+    },
+    {
+      "path": "t-5-4",
+      "title": "5.4 Appropriately use kernel hardening tools such as AppArmor, seccomp"
+    },
+    {
+      "path": "t-6-1",
+      "title": "6.1 Perform behavioral analytics to detect malicious activities"
+    },
+    {
+      "path": "t-6-3",
+      "title": "6.3 Investigate and identify phases of attack and bad actors within the environment"
+    },
+    {
+      "path": "t-6-4",
+      "title": "6.4 Ensure immutability of containers at runtime"
+    },
+    {
+      "path": "t-6-5",
+      "title": "6.5 Use Kubernetes audit logs to monitor access"
+    }
+  ]
+}

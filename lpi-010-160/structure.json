@@ -1,0 +1,10 @@
+{
+  "title": "LPI Linux Essentials",
+  "description": "Break/fix labs for LPI Linux Essentials",
+  "items": [
+    {
+      "path": "t-4-3",
+      "title": "4.3 Where Data is Stored"
+    }
+  ]
+}

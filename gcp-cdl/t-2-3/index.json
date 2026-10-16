@@ -1,0 +1,36 @@
+{
+  "title": "Discuss how smart analytics, business intelligence tools, and streaming analytics can add value in different business use cases",
+  "description": "gcp-cdl 2.3: break/fix lab, beginner",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Read the symptom",
+        "text": "step1.md"
+      },
+      {
+        "title": "Fix it",
+        "text": "step2.md",
+        "verify": "verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "break_fix.sh",
+          "target": "/root"
+        }
+      ]
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

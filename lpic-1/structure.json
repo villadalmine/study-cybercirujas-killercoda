@@ -1,0 +1,142 @@
+{
+  "title": "LPIC-1: Linux Administrator",
+  "description": "Break/fix labs for LPIC-1: Linux Administrator",
+  "items": [
+    {
+      "path": "t-101-1",
+      "title": "101.1 Determine and configure hardware settings"
+    },
+    {
+      "path": "t-101-2",
+      "title": "101.2 Boot the system"
+    },
+    {
+      "path": "t-102-1",
+      "title": "102.1 Design hard disk layout"
+    },
+    {
+      "path": "t-102-3",
+      "title": "102.3 Manage shared libraries"
+    },
+    {
+      "path": "t-102-4",
+      "title": "102.4 Use Debian package management"
+    },
+    {
+      "path": "t-102-5",
+      "title": "102.5 Use RPM and YUM package management"
+    },
+    {
+      "path": "t-102-6",
+      "title": "102.6 Linux as a virtualization guest"
+    },
+    {
+      "path": "t-103-1",
+      "title": "103.1 Work on the command line"
+    },
+    {
+      "path": "t-103-2",
+      "title": "103.2 Process text streams using filters"
+    },
+    {
+      "path": "t-103-3",
+      "title": "103.3 Perform basic file management"
+    },
+    {
+      "path": "t-103-4",
+      "title": "103.4 Use streams, pipes and redirects"
+    },
+    {
+      "path": "t-104-1",
+      "title": "104.1 Create partitions and filesystems"
+    },
+    {
+      "path": "t-104-2",
+      "title": "104.2 Maintain the integrity of filesystems"
+    },
+    {
+      "path": "t-104-3",
+      "title": "104.3 Control mounting and unmounting of filesystems"
+    },
+    {
+      "path": "t-104-5",
+      "title": "104.5 Manage file permissions and ownership"
+    },
+    {
+      "path": "t-104-6",
+      "title": "104.6 Create and change hard and symbolic links"
+    },
+    {
+      "path": "t-104-7",
+      "title": "104.7 Find system files and place files in the correct location"
+    },
+    {
+      "path": "t-105-1",
+      "title": "105.1 Customize and use the shell environment"
+    },
+    {
+      "path": "t-105-2",
+      "title": "105.2 Customize or write simple scripts"
+    },
+    {
+      "path": "t-106-1",
+      "title": "106.1 Install and configure X11"
+    },
+    {
+      "path": "t-106-2",
+      "title": "106.2 Graphical Desktops"
+    },
+    {
+      "path": "t-106-3",
+      "title": "106.3 Accessibility"
+    },
+    {
+      "path": "t-107-1",
+      "title": "107.1 Manage user and group accounts and related system files"
+    },
+    {
+      "path": "t-107-3",
+      "title": "107.3 Localisation and internationalisation"
+    },
+    {
+      "path": "t-108-1",
+      "title": "108.1 Maintain system time"
+    },
+    {
+      "path": "t-108-2",
+      "title": "108.2 System logging"
+    },
+    {
+      "path": "t-108-3",
+      "title": "108.3 Mail Transfer Agent (MTA) basics"
+    },
+    {
+      "path": "t-108-4",
+      "title": "108.4 Manage printers and printing"
+    },
+    {
+      "path": "t-109-1",
+      "title": "109.1 Fundamentals of internet protocols"
+    },
+    {
+      "path": "t-109-2",
+      "title": "109.2 Persistent network configuration"
+    },
+    {
+      "path": "t-109-3",
+      "title": "109.3 Basic network troubleshooting"
+    },
+    {
+      "path": "t-109-4",
+      "title": "109.4 Configure client side DNS"
+    },
+    {
+      "path": "t-110-1",
+      "title": "110.1 Perform security administration tasks"
+    },
+    {
+      "path": "t-110-2",
+      "title": "110.2 Setup host security"
+    }
+  ]
+}

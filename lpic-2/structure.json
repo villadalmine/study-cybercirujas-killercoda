@@ -1,0 +1,10 @@
+{
+  "title": "LPIC-2: Linux Engineer",
+  "description": "Break/fix labs for LPIC-2: Linux Engineer",
+  "items": [
+    {
+      "path": "t-200-1",
+      "title": "200.1 Measure and Troubleshoot Resource Usage"
+    }
+  ]
+}

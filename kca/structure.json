@@ -1,0 +1,62 @@
+{
+  "title": "Kyverno Certified Associate (KCA)",
+  "description": "Break/fix labs for Kyverno Certified Associate (KCA)",
+  "items": [
+    {
+      "path": "t-2-5",
+      "title": "2.5 High Availability Installations"
+    },
+    {
+      "path": "t-3-3",
+      "title": "3.3 jp"
+    },
+    {
+      "path": "t-4-2",
+      "title": "4.2 Resource Selection"
+    },
+    {
+      "path": "t-5-1",
+      "title": "5.1 Validation Rules"
+    },
+    {
+      "path": "t-5-2",
+      "title": "5.2 Preconditions"
+    },
+    {
+      "path": "t-5-3",
+      "title": "5.3 Background Scans"
+    },
+    {
+      "path": "t-5-4",
+      "title": "5.4 Mutation Rules"
+    },
+    {
+      "path": "t-5-5",
+      "title": "5.5 Generation Rules"
+    },
+    {
+      "path": "t-5-6",
+      "title": "5.6 VerifyImage Rules"
+    },
+    {
+      "path": "t-5-7",
+      "title": "5.7 Variables & API Calls in Policies"
+    },
+    {
+      "path": "t-5-9",
+      "title": "5.9 Autogen Rules"
+    },
+    {
+      "path": "t-6-1",
+      "title": "6.1 Policy Reports"
+    },
+    {
+      "path": "t-6-2",
+      "title": "6.2 PolicyExceptions"
+    },
+    {
+      "path": "t-6-3",
+      "title": "6.3 Kyverno Metrics"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "LPIC-3: High Availability and Storage Clusters",
+  "description": "Break/fix labs for LPIC-3: High Availability and Storage Clusters",
+  "items": [
+    {
+      "path": "t-364-1",
+      "title": "364.1 Hardware and Resource High Availability"
+    },
+    {
+      "path": "t-364-4",
+      "title": "364.4 Network High Availability"
+    }
+  ]
+}

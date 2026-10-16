@@ -1,0 +1,26 @@
+{
+  "title": "Cilium Certified Associate (CCA)",
+  "description": "Break/fix labs for Cilium Certified Associate (CCA)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 Cilium Fundamentals"
+    },
+    {
+      "path": "t-2-1",
+      "title": "2.1 Cilium Architecture & Components"
+    },
+    {
+      "path": "t-3-1",
+      "title": "3.1 Kubernetes Networking with Cilium"
+    },
+    {
+      "path": "t-4-1",
+      "title": "4.1 Observability with Cilium"
+    },
+    {
+      "path": "t-5-1",
+      "title": "5.1 Securing Workloads with Cilium"
+    }
+  ]
+}

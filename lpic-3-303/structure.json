@@ -1,0 +1,58 @@
+{
+  "title": "LPIC-3: Security",
+  "description": "Break/fix labs for LPIC-3: Security",
+  "items": [
+    {
+      "path": "t-331-1",
+      "title": "331.1 X.509 Certificates and Public Key Infrastructures"
+    },
+    {
+      "path": "t-331-2",
+      "title": "331.2 X.509 Certificates for Encryption, Signing and Authentication"
+    },
+    {
+      "path": "t-331-3",
+      "title": "331.3 Encrypted File Systems"
+    },
+    {
+      "path": "t-331-4",
+      "title": "331.4 DNS and Cryptography"
+    },
+    {
+      "path": "t-332-1",
+      "title": "332.1 Host Hardening"
+    },
+    {
+      "path": "t-332-2",
+      "title": "332.2 Host Intrusion Detection"
+    },
+    {
+      "path": "t-332-3",
+      "title": "332.3 Resource Control"
+    },
+    {
+      "path": "t-333-1",
+      "title": "333.1 Discretionary Access Control"
+    },
+    {
+      "path": "t-333-2",
+      "title": "333.2 Mandatory Access Control"
+    },
+    {
+      "path": "t-334-2",
+      "title": "334.2 Network Intrusion Detection"
+    },
+    {
+      "path": "t-334-3",
+      "title": "334.3 Packet Filtering"
+    },
+    {
+      "path": "t-334-4",
+      "title": "334.4 Virtual Private Networks"
+    },
+    {
+      "path": "t-335-1",
+      "title": "335.1 Common Security Vulnerabilities and Threats"
+    }
+  ]
+}

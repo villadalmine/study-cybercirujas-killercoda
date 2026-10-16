@@ -1,0 +1,22 @@
+{
+  "title": "Certified Cloud Native Platform Engineer (CNPE)",
+  "description": "Break/fix labs for Certified Cloud Native Platform Engineer (CNPE)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 Applying Platform Architecture Best Practices for Networking, Storage, and Compute"
+    },
+    {
+      "path": "t-2-3",
+      "title": "2.3 Diagnosing and Remediating Platform Issue and Incident Scenarios"
+    },
+    {
+      "path": "t-3-2",
+      "title": "3.2 Applying RBAC and Security Controls Across Platform Resources"
+    },
+    {
+      "path": "t-3-4",
+      "title": "3.4 Using Policy Engines and Admission Controllers for Governance"
+    }
+  ]
+}

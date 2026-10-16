@@ -1,0 +1,18 @@
+{
+  "title": "LPI BSD Specialist",
+  "description": "Break/fix labs for LPI BSD Specialist",
+  "items": [
+    {
+      "path": "t-712-3",
+      "title": "712.3 Control Mounting and Unmounting of File Systems"
+    },
+    {
+      "path": "t-714-3",
+      "title": "714.3 Basic network troubleshooting"
+    },
+    {
+      "path": "t-715-5",
+      "title": "715.5 Perform basic file editing operations"
+    }
+  ]
+}

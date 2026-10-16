@@ -1,0 +1,22 @@
+{
+  "title": "Kubernetes and Cloud Native Security Associate (KCSA)",
+  "description": "Break/fix labs for Kubernetes and Cloud Native Security Associate (KCSA)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 The 4Cs of Cloud Native Security"
+    },
+    {
+      "path": "t-1-2",
+      "title": "1.2 Cloud Provider and Infrastructure Security"
+    },
+    {
+      "path": "t-2-10",
+      "title": "2.10 Client Security"
+    },
+    {
+      "path": "t-3-6",
+      "title": "3.6 Audit Logging"
+    }
+  ]
+}

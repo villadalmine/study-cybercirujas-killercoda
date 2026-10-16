@@ -1,0 +1,34 @@
+{
+  "title": "Certified Kubernetes Application Developer (CKAD)",
+  "description": "Break/fix labs for Certified Kubernetes Application Developer (CKAD)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 Define, build and modify container images"
+    },
+    {
+      "path": "t-1-2",
+      "title": "1.2 Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.)"
+    },
+    {
+      "path": "t-2-1",
+      "title": "2.1 Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)"
+    },
+    {
+      "path": "t-3-4",
+      "title": "3.4 Debugging in Kubernetes"
+    },
+    {
+      "path": "t-4-4",
+      "title": "4.4 Define resource requirements"
+    },
+    {
+      "path": "t-4-7",
+      "title": "4.7 Understand ServiceAccounts"
+    },
+    {
+      "path": "t-5-2",
+      "title": "5.2 Provide and troubleshoot access to applications via services"
+    }
+  ]
+}

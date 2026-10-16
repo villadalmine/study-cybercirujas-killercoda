@@ -1,0 +1,26 @@
+{
+  "title": "Istio Certified Associate (ICA)",
+  "description": "Break/fix labs for Istio Certified Associate (ICA)",
+  "items": [
+    {
+      "path": "t-3-1",
+      "title": "3.1 Configuring Ingress and Egress Traffic"
+    },
+    {
+      "path": "t-3-2",
+      "title": "3.2 Configuring Routing within a Service Mesh"
+    },
+    {
+      "path": "t-3-6",
+      "title": "3.6 Using Resilience Features (circuit breaking, failover, outlier detection, timeouts, retries)"
+    },
+    {
+      "path": "t-4-2",
+      "title": "4.2 Configuring Authentication (mTLS, JWT)"
+    },
+    {
+      "path": "t-4-3",
+      "title": "4.3 Securing Edge Traffic with TLS"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Google Cloud Digital Leader",
+  "description": "Break/fix labs for Google Cloud Digital Leader",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 Explain why and how the cloud is revolutionizing businesses"
+    },
+    {
+      "path": "t-1-2",
+      "title": "1.2 Describe fundamental cloud concepts"
+    },
+    {
+      "path": "t-2-3",
+      "title": "2.3 Discuss how smart analytics, business intelligence tools, and streaming analytics can add value in different business use cases"
+    },
+    {
+      "path": "t-3-1",
+      "title": "3.1 Describe fundamental AI and ML concepts and how they create business value"
+    },
+    {
+      "path": "t-4-1",
+      "title": "4.1 Describe how Google Cloud helps organizations transition to the cloud"
+    },
+    {
+      "path": "t-4-3",
+      "title": "4.3 Describe the business value of application programming interfaces (APIs)"
+    },
+    {
+      "path": "t-5-1",
+      "title": "5.1 Describe fundamental cloud security concepts"
+    },
+    {
+      "path": "t-5-2",
+      "title": "5.2 Describe the business value of making Google part of an organization's security team with its defense-in-depth, multilayered approach to cloud security"
+    },
+    {
+      "path": "t-6-2",
+      "title": "6.2 Describe the fundamental concepts of modern operations, reliability, and resilience in the cloud"
+    }
+  ]
+}

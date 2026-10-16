@@ -1,0 +1,10 @@
+{
+  "title": "LPIC-3: Virtualization and Containerization",
+  "description": "Break/fix labs for LPIC-3: Virtualization and Containerization",
+  "items": [
+    {
+      "path": "t-351-2",
+      "title": "351.2 Xen"
+    }
+  ]
+}

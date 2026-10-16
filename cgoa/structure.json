@@ -1,0 +1,18 @@
+{
+  "title": "Certified GitOps Associate (CGOA)",
+  "description": "Break/fix labs for Certified GitOps Associate (CGOA)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 GitOps Fundamentals"
+    },
+    {
+      "path": "t-2-1",
+      "title": "2.1 GitOps Principles & Practices"
+    },
+    {
+      "path": "t-3-1",
+      "title": "3.1 GitOps Tooling & Implementation"
+    }
+  ]
+}

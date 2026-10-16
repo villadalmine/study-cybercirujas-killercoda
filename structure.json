@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "path": "aws-clf",
+      "title": "AWS Certified Cloud Practitioner (CLF-C02)"
+    },
+    {
+      "path": "az-900",
+      "title": "Microsoft Azure Fundamentals (AZ-900)"
+    },
+    {
+      "path": "capa",
+      "title": "Certified Argo Project Associate (CAPA)"
+    },
+    {
+      "path": "cca",
+      "title": "Cilium Certified Associate (CCA)"
+    },
+    {
+      "path": "cgoa",
+      "title": "Certified GitOps Associate (CGOA)"
+    },
+    {
+      "path": "cka",
+      "title": "Certified Kubernetes Administrator (CKA)"
+    },
+    {
+      "path": "ckad",
+      "title": "Certified Kubernetes Application Developer (CKAD)"
+    },
+    {
+      "path": "ckne",
+      "title": "Certified Kubernetes Network Engineer (CKNE)"
+    },
+    {
+      "path": "cks",
+      "title": "Certified Kubernetes Security Specialist (CKS)"
+    },
+    {
+      "path": "cnpa",
+      "title": "Certified Cloud Native Platform Engineering Associate (CNPA)"
+    },
+    {
+      "path": "cnpe",
+      "title": "Certified Cloud Native Platform Engineer (CNPE)"
+    },
+    {
+      "path": "gcp-cdl",
+      "title": "Google Cloud Digital Leader"
+    },
+    {
+      "path": "ica",
+      "title": "Istio Certified Associate (ICA)"
+    },
+    {
+      "path": "kca",
+      "title": "Kyverno Certified Associate (KCA)"
+    },
+    {
+      "path": "kcna",
+      "title": "Kubernetes and Cloud Native Associate (KCNA)"
+    },
+    {
+      "path": "kcsa",
+      "title": "Kubernetes and Cloud Native Security Associate (KCSA)"
+    },
+    {
+      "path": "lpi-010-160",
+      "title": "LPI Linux Essentials"
+    },
+    {
+      "path": "lpi-702",
+      "title": "LPI BSD Specialist"
+    },
+    {
+      "path": "lpi-devops",
+      "title": "LPI DevOps Tools Engineer"
+    },
+    {
+      "path": "lpic-1",
+      "title": "LPIC-1: Linux Administrator"
+    },
+    {
+      "path": "lpic-2",
+      "title": "LPIC-2: Linux Engineer"
+    },
+    {
+      "path": "lpic-3-303",
+      "title": "LPIC-3: Security"
+    },
+    {
+      "path": "lpic-3-305",
+      "title": "LPIC-3: Virtualization and Containerization"
+    },
+    {
+      "path": "lpic-3-306",
+      "title": "LPIC-3: High Availability and Storage Clusters"
+    },
+    {
+      "path": "mcpa",
+      "title": "Model Context Protocol Associate (MCPA)"
+    },
+    {
+      "path": "otca",
+      "title": "OpenTelemetry Certified Associate (OTCA)"
+    },
+    {
+      "path": "pca",
+      "title": "Prometheus Certified Associate (PCA)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Certified Kubernetes Administrator (CKA)",
+  "description": "Break/fix labs for Certified Kubernetes Administrator (CKA)",
+  "items": [
+    {
+      "path": "t-1-1",
+      "title": "1.1 Implement storage classes and dynamic volume provisioning"
+    },
+    {
+      "path": "t-2-2",
+      "title": "2.2 Troubleshoot cluster components"
+    },
+    {
+      "path": "t-3-3",
+      "title": "3.3 Configure workload autoscaling"
+    },
+    {
+      "path": "t-3-4",
+      "title": "3.4 Understand the primitives used to create robust, self-healing, application deployments"
+    },
+    {
+      "path": "t-3-5",
+      "title": "3.5 Configure Pod admission and scheduling (limits, node affinity, etc.)"
+    },
+    {
+      "path": "t-5-1",
+      "title": "5.1 Understand connectivity between Pods"
+    }
+  ]
+}
