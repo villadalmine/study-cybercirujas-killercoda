@@ -1,0 +1,15 @@
+{
+  "title": "CKA 1.1 · Storage classes and dynamic provisioning (fix a broken StorageClass)",
+  "description": "A PVC stays Pending: find why and fix the StorageClass. Lab from study.cybercirujas.club.",
+  "difficulty": "intermediate",
+  "time": "20 minutes",
+  "details": {
+    "intro": { "text": "intro.md", "background": "background.sh", "foreground": "foreground.sh" },
+    "steps": [
+      { "title": "Make the PVC bind", "text": "step1.md", "verify": "verify.sh" }
+    ],
+    "finish": { "text": "finish.md" },
+    "assets": { "host01": [ { "file": "break_fix.sh", "target": "/root/lab", "chmod": "+x" } ] }
+  },
+  "backend": { "imageid": "kubernetes-kubeadm-1node" }
+}
