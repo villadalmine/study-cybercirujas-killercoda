@@ -5,7 +5,7 @@
 [Topic on study.cybercirujas.club](https://study.cybercirujas.club) · [Official curriculum](https://github.com/cncf/curriculum/raw/master/CKA_Curriculum_v1.35.pdf)
 
 > **About this lab:** AI-generated (claude), not independently reviewed yet. Quality level: *AI beta* (86.1/100).
-> **Tested:** kubernetes-kubeadm-1node, Ubuntu 24.04, Kubernetes 1.36.5 on 2026-10-19 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/39325336543)): break, verify fails, fix, verify passes, cleanup. Environment assumed from public reports, not yet measured on Killercoda.
+> **Tested:** kubernetes-kubeadm-1node, Ubuntu 24.04, Kubernetes 1.36.5 on 2026-10-19 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/39328681508)): break, verify fails, fix, verify passes, cleanup. Environment assumed from public reports, not yet measured on Killercoda.
 
 Intermediate break/fix lab (cka 1.1). Something is broken on purpose: find it, fix it, press Check.
 

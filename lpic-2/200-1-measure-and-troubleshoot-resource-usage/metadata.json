@@ -28,9 +28,12 @@
     "reviews": {},
     "from": "lab.yaml"
   },
-  "tested_on_killercoda": null,
+  "tested_on_killercoda": {
+    "by": "villadalmine",
+    "date": "2026-10-19"
+  },
   "tested": {
-    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39325336543",
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39328681508",
     "date": "2026-10-19",
     "result": "pass",
     "parity": "assumed"
