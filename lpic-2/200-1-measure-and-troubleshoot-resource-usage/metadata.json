@@ -30,8 +30,8 @@
   },
   "tested_on_killercoda": null,
   "tested": {
-    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/38890097244",
-    "date": "2026-10-16",
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39325336543",
+    "date": "2026-10-19",
     "result": "pass",
     "parity": "assumed"
   }
