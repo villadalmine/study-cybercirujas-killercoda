@@ -12,7 +12,7 @@
   },
   "runner": {
     "kind": "ci",
-    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39421070329"
+    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39425961671"
   },
   "date": "2026-10-20",
   "tool": "study-lab-test-killercoda/1",
@@ -21,12 +21,12 @@
     "background": {
       "ok": true,
       "rc": 0,
-      "seconds": 4.0
+      "seconds": 3.7
     },
     "verify_fails_when_broken": {
       "ok": true,
       "rc": 1,
-      "seconds": 1.6
+      "seconds": 1.5
     },
     "reference_fix": {
       "ok": true,
@@ -36,17 +36,17 @@
     "verify_passes_when_fixed": {
       "ok": true,
       "rc": 0,
-      "seconds": 1.6
+      "seconds": 1.4
     },
     "cleanup": {
       "ok": true,
       "rc": 0,
-      "seconds": 2.1
+      "seconds": 1.9
     },
     "cleanup_twice": {
       "ok": true,
       "rc": 0,
-      "seconds": 1.9
+      "seconds": 1.7
     }
   }
 }
