@@ -16,9 +16,9 @@
   },
   "source": {
     "path": "certs/lpic-2/200.1/lab",
-    "commit": "c90c8b204432"
+    "commit": "0b82048e1fc4"
   },
-  "lab_hash": "7c2e93e28e3cf74960b3155219ce9f65874e632a47c5ff651fda491c23471047",
+  "lab_hash": "48bf6acd73477754dcc8f5a4a47c4fb4f10016551fdac41f40615feceb43dc3c",
   "license": "Apache-2.0",
   "provenance": {
     "kind": "ai",
@@ -33,7 +33,7 @@
     "date": "2026-10-19"
   },
   "tested": {
-    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39476971681",
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39478333288",
     "date": "2026-10-20",
     "result": "pass",
     "parity": "measured"

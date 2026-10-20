@@ -5,14 +5,21 @@
 [Topic on study.cybercirujas.club](https://study.cybercirujas.club) · [Official curriculum](https://www.lpi.org/our-certifications/exam-201-objectives/)
 
 > **About this lab:** AI-generated (study-author (claude-opus-5-5)), not independently reviewed yet. Quality level: *AI beta* (88.9/100).
-> **Tested:** ubuntu, Ubuntu 24.04 on 2026-10-20 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/39476971681)): break, verify fails, fix, verify passes, cleanup. Environment measured on Killercoda.
+> **Tested:** ubuntu, Ubuntu 24.04 on 2026-10-20 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/39478333288)): break, verify fails, fix, verify passes, cleanup. Environment measured on Killercoda.
 > **Tested on Killercoda** by @villadalmine on 2026-10-19: a person ran this scenario there and it behaved.
 
 Intermediate break/fix lab (lpic-2 200.1). Something is broken on purpose: find it, fix it, press Check.
 
 The lab sets itself up while this page loads; its symptom is printed in the terminal.
 
+## Goals
+
+1. The CPU is busy on an idle box. Find the process and stop it for good. Killing the PID is not enough: something restarts it, so look at its parent and the systemd unit.
+2. The disk shows used space that du can't find. Find who still holds the deleted file and release it.
+
+**Solved means:** Check passes when the systemd unit behind the CPU burner is stopped and disabled, no worker process of it is left, and no process holds a deleted file under the spool directory /var/tmp/lab-200.1.
+
 ---
 Source and full course: [study.cybercirujas.club](https://study.cybercirujas.club) | [lab code](https://github.com/villadalmine/study-cybercirujas/tree/main/certs/lpic-2/200.1/lab)
 
-License: Apache-2.0. Source commit: c90c8b204432.
+License: Apache-2.0. Source commit: 0b82048e1fc4.

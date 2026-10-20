@@ -1,5 +1,5 @@
 {
-  "scenario_sha256": "7ed46b695932ba7fcc8d17f91cdc0e3ad1b9c2b985106cccc8be48c2b89c1c5c",
+  "scenario_sha256": "e86960d45644d21bf5fd3723aab57fcc73572cd484eebacae40c7755aba8aac1",
   "env": {
     "image": "ubuntu",
     "os": "24.04",
@@ -12,7 +12,7 @@
   },
   "runner": {
     "kind": "ci",
-    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39476971681"
+    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39478333288"
   },
   "date": "2026-10-20",
   "tool": "study-lab-test-killercoda/1",
@@ -21,32 +21,32 @@
     "background": {
       "ok": true,
       "rc": 0,
-      "seconds": 3.1
+      "seconds": 4.2
     },
     "verify_fails_when_broken": {
       "ok": true,
       "rc": 1,
-      "seconds": 1.3
+      "seconds": 1.7
     },
     "reference_fix": {
       "ok": true,
       "rc": 0,
-      "seconds": 2.3
+      "seconds": 2.4
     },
     "verify_passes_when_fixed": {
       "ok": true,
       "rc": 0,
-      "seconds": 1.3
+      "seconds": 1.7
     },
     "cleanup": {
       "ok": true,
       "rc": 0,
-      "seconds": 1.6
+      "seconds": 2.2
     },
     "cleanup_twice": {
       "ok": true,
       "rc": 0,
-      "seconds": 1.4
+      "seconds": 1.9
     }
   }
 }

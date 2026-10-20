@@ -1,5 +1,12 @@
 ## Fix it
 
+### Goals
+
+1. The CPU is busy on an idle box. Find the process and stop it for good. Killing the PID is not enough: something restarts it, so look at its parent and the systemd unit.
+2. The disk shows used space that du can't find. Find who still holds the deleted file and release it.
+
+**Solved means:** Check passes when the systemd unit behind the CPU burner is stopped and disabled, no worker process of it is left, and no process holds a deleted file under the spool directory /var/tmp/lab-200.1.
+
 When you think it is solved, press **Check**.
 
 <details><summary>Hint 1</summary>
