@@ -3,22 +3,22 @@
   "env": {
     "image": "kubernetes-kubeadm-1node",
     "os": "24.04",
-    "kubernetes": "1.36.5",
-    "runtime": "containerd",
-    "cni": "flannel v0.28.10",
-    "parity": "assumed"
+    "kubernetes": "1.36.1",
+    "runtime": "containerd 2.2.1",
+    "cni": "cilium v1.20.3",
+    "parity": "partially-measured"
   },
   "expected": {
     "image": "kubernetes-kubeadm-1node",
     "os": "24.04",
-    "kubernetes": "1.36.5",
-    "runtime": "containerd",
-    "cni": "flannel v0.28.10",
-    "parity": "assumed"
+    "kubernetes": "1.36.1",
+    "runtime": "containerd 2.2.1",
+    "cni": "cilium v1.20.3",
+    "parity": "partially-measured"
   },
   "runner": {
     "kind": "ci",
-    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39385200885"
+    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39387633677"
   },
   "date": "2026-10-20",
   "tool": "study-lab-test-killercoda/1",
@@ -27,17 +27,17 @@
     "background": {
       "ok": true,
       "rc": 0,
-      "seconds": 7.7
+      "seconds": 1.9
     },
     "verify_fails_when_broken": {
       "ok": true,
       "rc": 1,
-      "seconds": 0.3
+      "seconds": 0.5
     },
     "reference_fix": {
       "ok": true,
       "rc": 0,
-      "seconds": 9.9
+      "seconds": 6.8
     },
     "verify_passes_when_fixed": {
       "ok": true,
