@@ -1,5 +1,5 @@
 {
-  "scenario_sha256": "91f55ec3dab3902e1819ee06ce22f7d86ce58e831f68aa97832997d70463f434",
+  "scenario_sha256": "95997ab0bb4c68f1178a07e005c9606966e477643cda9e63871b80d975f0c23a",
   "env": {
     "image": "kubernetes-kubeadm-1node",
     "os": "24.04",
@@ -18,26 +18,26 @@
   },
   "runner": {
     "kind": "ci",
-    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39478333288"
+    "url": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39559693356"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "tool": "study-lab-test-killercoda/1",
   "result": "pass",
   "stages": {
     "background": {
       "ok": true,
       "rc": 0,
-      "seconds": 2.0
+      "seconds": 1.9
     },
     "verify_fails_when_broken": {
       "ok": true,
       "rc": 1,
-      "seconds": 0.5
+      "seconds": 0.3
     },
     "reference_fix": {
       "ok": true,
       "rc": 0,
-      "seconds": 7.0
+      "seconds": 6.7
     },
     "verify_passes_when_fixed": {
       "ok": true,

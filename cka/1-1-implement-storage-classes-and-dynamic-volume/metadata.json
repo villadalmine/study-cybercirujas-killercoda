@@ -16,9 +16,9 @@
   },
   "source": {
     "path": "certs/cka/1.1/lab",
-    "commit": "de42f1594d2f"
+    "commit": "db37874ee2a1"
   },
-  "lab_hash": "1bf8b0a86113fa15a54162552efe0ad33c6a1352a93cd94d62be3c097138ac36",
+  "lab_hash": "b65bd576a80ad6056afda9795389519a9965ef554ecd58650e77dad45f3911b7",
   "license": "Apache-2.0",
   "provenance": {
     "kind": "ai",
@@ -33,8 +33,8 @@
     "date": "2026-10-19"
   },
   "tested": {
-    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39478333288",
-    "date": "2026-10-20",
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/39559693356",
+    "date": "2026-10-21",
     "result": "pass",
     "parity": "partially-measured"
   }
