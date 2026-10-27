@@ -5,7 +5,7 @@
 [Topic on study.cybercirujas.club](https://study.cybercirujas.club) · [Official curriculum](https://www.lpi.org/our-certifications/exam-201-objectives/)
 
 > **About this lab:** AI-generated (study-author (claude-opus-5-5)), not independently reviewed yet. Quality level: *AI beta* (88.9/100).
-> **Tested:** ubuntu, Ubuntu 24.04 on 2026-10-21 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/39560431024)): break, verify fails, fix, verify passes, cleanup. Environment measured on Killercoda.
+> **Tested:** ubuntu, Ubuntu 24.04 on 2026-10-27 ([run](https://github.com/villadalmine/study-cybercirujas/actions/runs/40477488945)): break, verify fails, fix, verify passes, cleanup. Environment measured on Killercoda.
 > **Tested on Killercoda** by @villadalmine on 2026-10-19: a person ran this scenario there and it behaved.
 
 Intermediate break/fix lab (lpic-2 200.1). Something is broken on purpose: find it, fix it, press Check.

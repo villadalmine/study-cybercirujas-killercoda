@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "path": "cka",
-      "title": "Certified Kubernetes Administrator (CKA)"
-    },
-    {
       "path": "lpic-2",
       "title": "LPIC-2: Linux Engineer"
     },
