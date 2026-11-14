@@ -33,7 +33,7 @@
     "date": "2026-10-19"
   },
   "tested": {
-    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/43584684828",
+    "ci_run": "https://github.com/villadalmine/study-cybercirujas/actions/runs/43586726288",
     "date": "2026-11-14",
     "result": "pass",
     "parity": "measured"
